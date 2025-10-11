@@ -1,5 +1,6 @@
 # database
 1/What is the difference between JOIN and UNION?
+
 Both of them are methods for combining data in SQL. But JOIN adds new data by adding new columns, which have a logical connection. And UNION adds new rows to the columns that already exist.
 2/Explain the difference between SUBQUERY AND CTE.
 CTE creates a temporary table before the main query, while SUBQUERY is a query that works inside another query.
